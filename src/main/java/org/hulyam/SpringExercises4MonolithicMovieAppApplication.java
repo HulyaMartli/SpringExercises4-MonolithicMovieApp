@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringExercises4MonolithicMovieAppApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringExercises4MonolithicMovieAppApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringExercises4MonolithicMovieAppApplication.class, args);
+    }
 
 }
